@@ -55,6 +55,12 @@ void main()
     sizeof(short);
     sizeof(float);
 
+    //find tha nearest value//
+
+    float roundf(float b);
+    double round(double d);
+    
+
 
 
 
