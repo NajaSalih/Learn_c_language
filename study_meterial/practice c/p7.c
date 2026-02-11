@@ -14,7 +14,7 @@ void main()
          else
             if(marks>=60)
               printf("%s-First Division",snum);
-            else if (marks>=50)
+            else if (magrks>=50)
                printf("%s-second Division",snum);
             else if(marks>=40)
                printf("%s-third Division",snum);
