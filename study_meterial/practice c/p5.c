@@ -1,11 +1,6 @@
 #include<stdio.h>
 
-
-
-void main()
-{
-    #include<stdio.h>
-
+//calculate ratio
 
 void main()
 {
