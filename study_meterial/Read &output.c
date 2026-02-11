@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main()
+int main()
 {
     int a;
     float b;
@@ -13,9 +13,9 @@ void main()
 
 
    
-    scanf("%d",a);
-    scanf("%f",b);
-    scanf("%c",c);
+    scanf("%d",&a);
+    scanf("%f",&b);
+    scanf("%c",&c);
 
    
     printf("Hello world");
